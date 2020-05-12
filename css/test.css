@@ -31,3 +31,9 @@ p span{
     margin-top : 20px;
     background-color: aqua;
 }
+
+.footer{
+    margin-top: 50px;
+    background-color: blueviolet;
+    height: 500px;    
+}
