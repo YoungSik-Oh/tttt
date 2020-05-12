@@ -29,5 +29,5 @@ p span{
 .container-bottom {
     height: 300px;
     margin-top : 20px;
-
+    background-color: aqua;
 }
