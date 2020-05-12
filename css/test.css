@@ -25,3 +25,9 @@ p span{
     display: inline;
     list-style: none;
 }
+
+.container-bottom {
+    height: 300px;
+    margin-top : 20px;
+
+}
