@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body{
+    width: 40%;
+    margin: auto;
+}
+#title_top{
+    margin-top: 10%;
+}
+p span{
+    font-style: italic;
+    font-weight: bold;
+}
+.container{
+    
+}
+.container > ul{
+    border-color: blueviolet;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+.container > ul> li{
+    margin: auto;
+    border-style: solid;
+    display: inline;
+    list-style: none;
+}
